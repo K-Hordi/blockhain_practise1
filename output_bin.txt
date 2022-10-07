@@ -1,0 +1,11 @@
+Matched key  0b111000
+Original key 0b111000
+For length 8 brutforcing time is 0.0 milliseconds
+
+Matched key  0b111101101111100
+Original key 0b111101101111100
+For length 16 brutforcing time is 15.998000000000001 milliseconds
+
+Matched key  0b10011110100011001001011011001010
+Original key 0b10011110100011001001011011001010
+For length 32 brutforcing time is 355.773 milliseconds

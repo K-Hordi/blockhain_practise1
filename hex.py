@@ -26,7 +26,7 @@ for len in key_lenghts:
     
 def brutforce(len, key):
     time_start = datetime.datetime.now()
-    end_key= '0x'+('f'*len/4)
+    end_key= '0x'+('f'*int(len/4))
     for i in range(int(end_key,16)):
         
         if hex(i)==key:
